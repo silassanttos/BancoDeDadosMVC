@@ -5,19 +5,4 @@
 
 
 
- 
-1 – Criação do baco de dados, nome: CREATE DATABASE dbLeitor;
-2. Criação da tabela com o nome tbLeitor usando a sintaxe em SQL seguinte:
-	CREATE TABLE tbLeitor( 
-codLeitor INT(4), 
-nomeLeitor VARCHAR(40),
- tipoLeitor VARCHAR(20),
-PRIMARY KEY (codLeitor)
-);
-Ao ser criada, a tabela terá a estrutura apresentada abaixo:
-Nome do campo	Tipo de dados	Tamanho
-CodLeitor	INT	4
-NomeLeitor	VARCHAR	40
-TipoLeitor	VARCHAR	20
-
-Com os procedimentos anteriores foi criado o banco de dados com uma tabela vazia em MYSQL. Esse será o banco de dados manipulado pela aplicação Java descrita no item 1.2.
+![image](https://user-images.githubusercontent.com/69328711/122143122-2e412600-ce27-11eb-8121-7d57a31b9cb1.png)
